@@ -1,5 +1,4 @@
 // CounterPage.test.tsx
-import React from "react";
 import { render, fireEvent, screen } from "@testing-library/react";
 import { CounterPage } from "../challenge/Project_03/counter";
 
